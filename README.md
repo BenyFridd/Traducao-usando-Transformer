@@ -1,4 +1,4 @@
-```markdown
+
 # Transformer Translation Tutorial
 
 Este repositório contém a implementação do tutorial do TensorFlow para tradução utilizando um modelo Transformer. O projeto demonstra a aplicação de técnicas de tradução automática, utilizando tokenização subword e um modelo Transformer treinado para traduzir do Português para o Inglês.
